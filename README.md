@@ -17,29 +17,29 @@ My first project — a 6-key, 2-rotary-encoder switch macropad.
 
 **Schematic**
 
-![Schematic] 
-(<img width="1366" height="685" alt="Schematic" src="https://github.com/user-attachments/assets/01a5d559-bc52-47a0-bbc1-6636ac2b5625" />
-)
+
+<img width="1366" height="685" alt="Schematic" src="https://github.com/user-attachments/assets/01a5d559-bc52-47a0-bbc1-6636ac2b5625" />
+
 
 **PCB**
 
-![PCB]
-(<img width="1366" height="685" alt="PCB" src="https://github.com/user-attachments/assets/93746db8-32ab-4932-8c28-af202513a2ba" />
-)
+
+<img width="1366" height="685" alt="PCB" src="https://github.com/user-attachments/assets/93746db8-32ab-4932-8c28-af202513a2ba" />
+
 
 ## 3D Renders
 
 **Front View**
 
-![3D Front View]
-(<img width="1366" height="685" alt="Front 3D view" src="https://github.com/user-attachments/assets/7caeea82-d532-440a-8674-111fd6ffaadb" />
-)
+
+<img width="1366" height="685" alt="Front 3D view" src="https://github.com/user-attachments/assets/7caeea82-d532-440a-8674-111fd6ffaadb" />
+
 
 **Back View**
 
-![3D Back View]
-(<img width="1366" height="685" alt="Back 3D view" src="https://github.com/user-attachments/assets/146faa13-aefe-468f-9df2-ab9f24b5c995" />
-)
+
+<img width="1366" height="685" alt="Back 3D view" src="https://github.com/user-attachments/assets/146faa13-aefe-468f-9df2-ab9f24b5c995" />
+
 
 ## About
 

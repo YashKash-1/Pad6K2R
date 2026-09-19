@@ -18,6 +18,7 @@ This is where most of the early struggle happened. Coming into this with basical
 
 **Result:** Got the PCB fully designed. This was the first point where Pad6K2R stopped feeling abstract and started feeling like an actual object.
 
+<img width="1366" height="685" alt="640313628-93746db8-32ab-4932-8c28-af202513a2ba" src="https://github.com/user-attachments/assets/feea85ab-4a9c-40bd-9ccc-d897a8c25b42" />
 ---
 
 ## 3D Model (EasyEDA)
